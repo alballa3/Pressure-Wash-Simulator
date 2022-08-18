@@ -1,0 +1,4 @@
+Hello,
+I am releasing a janky script for Pressure Wash Simulator
+This script will release with or without bugs and will not be maintained 
+This Script is opensourced 
